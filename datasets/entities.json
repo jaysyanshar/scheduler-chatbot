@@ -1,0 +1,54 @@
+{
+  "TIME": [
+    "on",
+    "at",
+    "morning",
+    "afternoon",
+    "evening",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday",
+    "next week",
+    "next month",
+    "january",
+    "february",
+    "march",
+    "april",
+    "may",
+    "june",
+    "july",
+    "august",
+    "september",
+    "october",
+    "november",
+    "december"
+  ],
+  "PERSON": [
+    "john",
+    "tina",
+    "jays",
+    "sisca",
+    "aliyyah"
+  ],
+  "DURATION": [
+    "minutes",
+    "hours",
+    "days",
+    "from",
+    "to",
+    "minute",
+    "hour",
+    "day"
+  ],
+  "MEETING": [
+    "Deployment Issue",
+    "Monthly Report",
+    "Weekly Report",
+    "Project Briefing",
+    "Employee Training"
+  ]
+}

@@ -1,0 +1,174 @@
+[
+  {
+    "text": "schedule a meeting",
+    "intent": "schedule creation"
+  },
+  {
+    "text": "write schedule",
+    "intent":"schedule creation"
+  },
+  {
+    "text": "create an appointment",
+    "intent":"schedule creation"
+  },
+  {
+    "text": "host a meeting",
+    "intent": "schedule creation"
+  },
+  {
+    "text": "create a meeting schedule",
+    "intent":"schedule creation"
+  },
+  {
+    "text": "help me schedule a meeting",
+    "intent":"schedule creation"
+  },
+  {
+    "text": "please write a meeting schedule",
+    "intent": "schedule creation"
+  },
+  {
+    "text": "check my schedule",
+    "intent": "schedule check"
+  },
+  {
+    "text": "open my calendar",
+    "intent": "schedule check"
+  },
+  {
+    "text": "what is today schedule",
+    "intent":"schedule check"
+  },
+  {
+    "text": "what is on today",
+    "intent": "schedule check"
+  },
+  {
+    "text": "how to check my schedule",
+    "intent": "schedule check"
+  },
+  {
+    "text": "today schedule",
+    "intent": "schedule check"
+  },
+  {
+    "text": "check calendar",
+    "intent": "schedule check"
+  },
+  {
+    "text": "please schedule for",
+    "intent": "duration definition"
+  },
+  {
+    "text": "for some minutes",
+    "intent": "duration definition"
+  },
+  {
+    "text": "for an hour",
+    "intent": "duration definition"
+  },
+  {
+    "text": "for some hours",
+    "intent": "duration definition"
+  },
+  {
+    "text": "please schedule an hour",
+    "intent":"duration definition"
+  },
+  {
+    "text": "create schedule with duration",
+    "intent": "duration definition"
+  },
+  {
+    "text": "create schedule from a time",
+    "intent": "duration definition"
+  },
+  {
+    "text": "from time to time",
+    "intent":"duration definition"
+  },
+  {
+    "text": "plan a meeting with",
+    "intent": "participant invite"
+  },
+  {
+    "text": "plan with and with",
+    "intent": "participant invite"
+  },
+  {
+    "text": "please invite some people",
+    "intent": "participant invite"
+  },
+  {
+    "text": "please tell them",
+    "intent": "participant invite"
+  },
+  {
+    "text": "and bring somebody",
+    "intent": "participant invite"
+  },
+  {
+    "text": "i want to meet him",
+    "intent": "participant invite"
+  },
+  {
+    "text": "do not forget to tell her",
+    "intent": "participant invite"
+  },
+  {
+    "text": "please schedule at",
+    "intent": "time definition"
+  },
+  {
+    "text": "schedule a meeting on",
+    "intent":"time definition"
+  },
+  {
+    "text": "schedule a meeting before",
+    "intent": "time definition"
+  },
+  {
+    "text": "schedule this time",
+    "intent": "time definition"
+  },
+  {
+    "text": "meeting tomorrow at",
+    "intent": "time definition"
+  },
+  {
+    "text": "we can meet on",
+    "intent": "time definition"
+  },
+  {
+    "text": "let us start at",
+    "intent": "time definition"
+  },
+  {
+    "text": "let it be",
+    "intent": "subject definition"
+  },
+  {
+    "text": "an appointment for",
+    "intent": "subject definition"
+  },
+  {
+    "text": "we need to talk about",
+    "intent": "subject definition"
+  },
+  {
+    "text": "a meeting about",
+    "intent": "subject definition"
+  },
+  {
+    "text": "a meeting for",
+    "intent": "subject definition"
+  },
+  {
+    "text": "let us talk about",
+    "intent": "subject definition"
+  },
+  {
+    "text": "to discuss",
+    "intent": "subject definition"
+  }
+]
