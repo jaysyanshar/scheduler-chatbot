@@ -124,6 +124,14 @@
     "intent": "reschedule"
   },
   {
+    "text": "I need to reschedule our appointment today to this Friday, is that fine?",
+    "intent": "reschedule"
+  },
+  {
+    "text": "I need to reschedule my meeting with Faiz from tomorrow to this Sunday.",
+    "intent": "reschedule"
+  },
+  {
     "text": "Please tell Rani that I can't join the monthly meeting today.",
     "intent": "schedule confirmation"
   },
@@ -149,6 +157,10 @@
   },
   {
     "text": "I am sorry, I cannot join your meeting next week.",
+    "intent": "schedule confirmation"
+  },
+  {
+    "text": "Please tell John that I can join his meeting tomorrow.",
     "intent": "schedule confirmation"
   }
 ]
