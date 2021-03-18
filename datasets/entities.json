@@ -1,7 +1,5 @@
 {
   "TIME": [
-    "on",
-    "at",
     "morning",
     "afternoon",
     "evening",
@@ -38,17 +36,15 @@
     "minutes",
     "hours",
     "days",
-    "from",
-    "to",
     "minute",
     "hour",
     "day"
   ],
   "MEETING": [
-    "Deployment Issue",
-    "Monthly Report",
-    "Weekly Report",
-    "Project Briefing",
-    "Employee Training"
+    "deployment issue",
+    "monthly report",
+    "weekly report",
+    "project briefing",
+    "employee training"
   ]
 }
